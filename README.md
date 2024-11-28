@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently a Marketing project manager
+- 🔭 I’m currently a computer network software Engineer
 - 🌱 I’m currently learning about Artificial Intelligence
 -->
 
