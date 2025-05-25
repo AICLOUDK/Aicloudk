@@ -11,18 +11,6 @@ This is AICLODK github profile.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aicloudk&layout=pie)](https://github.com/aicloudk/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aicloudk&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aicloudk)](https://github.com/aicloudk/github-readme-stats)
-
-![trophy](https://github-profile-trophy.vercel.app/?username=aicloudk&theme=onedark&column=-1)
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aicloudk&theme=transparent" /> 
-</p>
-
-<a href="https://github.com/aicloudk"><img alt="Github" title="aicloudk Github" src="https://img.shields.io/badge/github-133563.svg?style=for-the-badge&logo=github&logoColor=white"></a> </p>
-
-
-
 
 
 
