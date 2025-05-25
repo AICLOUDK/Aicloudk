@@ -11,3 +11,4 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aicloudk)](https://github.com/aicloudk/github-readme-stats)
 ![trophy](https://github-profile-trophy.vercel.app/?username=aicloudk&theme=onedark&column=-1)
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aicloudk&theme=transparent" /> </p>
+<a href="https://github.com/aicloudk"><img alt="Github" title="aicloudk Github" src="https://img.shields.io/badge/github-133563.svg?style=for-the-badge&logo=github&logoColor=white"></a> </p>
