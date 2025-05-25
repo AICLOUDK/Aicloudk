@@ -43,9 +43,8 @@ This is AICLODK github profile.
 
 <p align="center">
   <a href="https://linkedin.com/in/aicloudk"><img alt="Linkedin" title="aicloudk Linkedin" src="https://img.shields.io/badge/LinkedIn-133563?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://instagram.com/aicloudk"><img alt="Instagram" title="aicloudk Instagram" src="https://img.shields.io/badge/Instagram-133563?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="http://discordapp.com/users/369562056027799562"><img alt="Discord" title="aicloudk Discord Profile" src="https://img.shields.io/badge/Discord-133563?style=for-the-badge&logo=discord&logoColor=white"></a>
-  <a href="http://twitter.com/aicloudk"><img alt="Twitter" title="aicloudk Twitter" src="https://img.shields.io/badge/Twitter-133563?style=for-the-badge&logo=twitter&logoColor=white"></a>
+  <a href="https://instagram.com/aicloudk"><img alt="Instagram" title="aicloudk Instagram" src="https://img.shields.io/badge/Instagram-133563?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
   <a href="https://github.com/aicloudk"><img alt="Github" title="aicloudk Github" src="https://img.shields.io/badge/github-133563.svg?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
