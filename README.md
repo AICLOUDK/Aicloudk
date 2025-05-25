@@ -6,14 +6,6 @@ This is AICLODK github profile.
 - In my endeavor to harmoniously integrate the disciplines of Software Engineering and Business Administration , I am steadfastly committed to the pursuit of fusing technological expertise with business acumen. The meticulous construction of each programming instruction, coupled with the strategic utilization of computational methodologies, serves to invigorate my aspiration to innovate, thereby facilitating the development of solutions that hold the potential to effectuate significant impacts within the industry.
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aicloudk&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aicloudk&layout=compact)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aicloudk&layout=pie)](https://github.com/aicloudk/github-readme-stats)
-
-
-
-![aicloudk's GitHub stats](https://github-readme-stats.vercel.app/api?username=aicloudk&count_private=true&show_icons=true&theme=transparent&hide_border=true&number_format=long) ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hawshemi&theme=transparent&hide_border=true&layout=compact)
-
 <br>
 
 <p ![trophy](https://github-profile-trophy.vercel.app/?username=aicloudk&theme=onedark&column=-1)/>
