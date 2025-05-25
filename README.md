@@ -17,7 +17,8 @@ This is AICLODK github profile.
 
 <br>
 
-![trophy](https://github-profile-trophy.vercel.app/?username=aicloudk&theme=onedark&column=-1)
+<p ![trophy](https://github-profile-trophy.vercel.app/?username=aicloudk&theme=onedark&column=-1)/>
+</p>
 
 <br>
 
