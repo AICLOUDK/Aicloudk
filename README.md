@@ -2,8 +2,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aicloudk&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aicloudk&langs_count=8)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aicloudk&layout=compact)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aicloudk&layout=donut)](https://github.com/aicloudk/github-readme-stats)
