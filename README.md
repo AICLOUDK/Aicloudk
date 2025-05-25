@@ -13,9 +13,6 @@ This is AICLODK github profile.
 
 
 
-
-
-
 ![aicloudk's GitHub stats](https://github-readme-stats.vercel.app/api?username=aicloudk&count_private=true&show_icons=true&theme=transparent&hide_border=true&number_format=long) ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hawshemi&theme=transparent&hide_border=true&layout=compact)
 
 <br>
