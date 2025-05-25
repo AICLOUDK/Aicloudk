@@ -4,8 +4,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aicloudk&layout=compact)
 
-![](https://raw.githubusercontent.com/aicloudk/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/aicloudk/github-stats/master/generated/overview.svg#gh-light-mode-only)
 
 **AICLOUDK/Aicloudk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
