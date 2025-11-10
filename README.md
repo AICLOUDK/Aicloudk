@@ -19,9 +19,6 @@
   <a href="https://instagram.com/">
     <img alt="Instagram" title="Instagram Profile" src="https://img.shields.io/badge/Instagram-133563?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
-  <a href="http://discordapp.com/users/">
-    <img alt="Discord" title="Discord Profile" src="https://img.shields.io/badge/Discord-133563?style=for-the-badge&logo=discord&logoColor=white">
-  </a>
   <a href="http://twitter.com/">
     <img alt="Twitter" title="Twitter Profile" src="https://img.shields.io/badge/Twitter-133563?style=for-the-badge&logo=twitter&logoColor=white">
   </a>
