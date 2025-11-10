@@ -17,6 +17,5 @@
         <a href="https://twitter.com/AICLOUDK" target="_blank" class="social-icon" title="Twitter">🐦</a>
         <a href="https://instagram.com/AICLOUDK" target="_blank" class="social-icon" title="Instagram">📸</a>
       </div>
-    </div>
   </footer>
 <br>
