@@ -11,8 +11,12 @@
 </p>
 
 <br>
-
-<a href="https://github.com/aicloudk"><img alt="Github" title="aicloudk Github" src="https://img.shields.io/badge/github-133563.svg?style=for-the-badge&logo=github&logoColor=white"></a>
-</p>
-
+<div class="social-icons">
+        <a href="https://linkedin.com/in/AICLOUDK" target="_blank" class="social-icon" title="LinkedIn">💼</a>
+        <a href="https://github.com/AICLOUDK" target="_blank" class="social-icon" title="GitHub">💻</a>
+        <a href="https://twitter.com/AICLOUDK" target="_blank" class="social-icon" title="Twitter">🐦</a>
+        <a href="https://instagram.com/AICLOUDK" target="_blank" class="social-icon" title="Instagram">📸</a>
+      </div>
+    </div>
+  </footer>
 <br>
