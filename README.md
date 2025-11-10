@@ -13,11 +13,10 @@
 <br>
 
 <p align="center">
-  <a href="https://linkedin.com/in/AICLOUDK"><img alt="Linkedin" title="AICLOUDK Linkedin" src="https://img.shields.io/badge/LinkedIn-133563?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://instagram.com/AICLOUDK"><img alt="Instagram" title="AICLOUDK Instagram" src="https://img.shields.io/badge/Instagram-133563?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="http://discordapp.com/users/AICLOUDK"><img alt="Discord" title="AICLOUDK Discord Profile" src="https://img.shields.io/badge/Discord-133563?style=for-the-badge&logo=discord&logoColor=white"></a>
-  <a href="http://twitter.com/AICLOUDK"><img alt="Twitter" title="AICLOUDK Twitter" src="https://img.shields.io/badge/Twitter-133563?style=for-the-badge&logo=twitter&logoColor=white"></a>
-  <a href="https://github.com/AICLOUDK"><img alt="Github" title="AICLOUDK Github" src="https://img.shields.io/badge/github-133563.svg?style=for-the-badge&logo=github&logoColor=white"></a>
+ <a href="https://github.com/AICLOUDK"><img alt="Github" title="AICLOUDK Github" src="https://img.shields.io/badge/github-133563.svg?style=for-the-badge&logo=github&logoColor=white"></a>
+ <a href="https://instagram.com/AICLOUDK"><img alt="Instagram" title="AICLOUDK Instagram" src="https://img.shields.io/badge/Instagram-133563?style=for-the-badge&logo=instagram&logoColor=white"></a>
+ <a href="https://linkedin.com/in/AICLOUDK"><img alt="Linkedin" title="AICLOUDK Linkedin" src="https://img.shields.io/badge/LinkedIn-133563?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+ <a href="http://twitter.com/AICLOUDK"><img alt="Twitter" title="AICLOUDK Twitter" src="https://img.shields.io/badge/Twitter-133563?style=for-the-badge&logo=twitter&logoColor=white"></a>
 </p>
 
 <br>
