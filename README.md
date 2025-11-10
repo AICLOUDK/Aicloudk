@@ -13,11 +13,11 @@
 <br>
 
 <p align="center">
-  <a href="https://linkedin.com/in/Kamyab"><img alt="Linkedin" title="Kamyab Linkedin" src=""></a>
-  <a href="https://instagram.com/Kamyab"><img alt="Instagram" title="Kamyab Instagram" src=""></a>
-  <a href="http://discordapp.com/users/Kamyab"><img alt="Discord" title="Kamyab Discord Profile" src=""></a>
-  <a href="http://twitter.com/Kamyab"><img alt="Twitter" title="Kamyab Twitter" src=""></a>
-  <a href="https://github.com/Kamyab"><img alt="Github" title="Kamyab Github" src=""></a>
+  <a href="https://linkedin.com/in/AICLOUDK"><img alt="Linkedin" title="AICLOUDK Linkedin" src=""></a>
+  <a href="https://instagram.com/AICLOUDK"><img alt="Instagram" title="AICLOUDK Instagram" src=""></a>
+  <a href="http://discordapp.com/users/AICLOUDK"><img alt="Discord" title="AICLOUDK Discord Profile" src=""></a>
+  <a href="http://twitter.com/AICLOUDK"><img alt="Twitter" title="AICLOUDK Twitter" src=""></a>
+  <a href="https://github.com/AICLOUDK"><img alt="Github" title="AICLOUDK Github" src=""></a>
 </p>
 
 <br>
