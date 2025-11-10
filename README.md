@@ -11,11 +11,21 @@
 </p>
 
 <br>
-<div class="social-icons">
-        <a href="https://linkedin.com/in/AICLOUDK" target="_blank" class="social-icon" title="LinkedIn">💼</a>
-        <a href="https://github.com/AICLOUDK" target="_blank" class="social-icon" title="GitHub">💻</a>
-        <a href="https://twitter.com/AICLOUDK" target="_blank" class="social-icon" title="Twitter">🐦</a>
-        <a href="https://instagram.com/AICLOUDK" target="_blank" class="social-icon" title="Instagram">📸</a>
-      </div>
-  </footer>
-<br>
+
+<p align="center">
+  <a href="https://linkedin.com/in/">
+    <img alt="LinkedIn" title="LinkedIn Profile" src="https://img.shields.io/badge/LinkedIn-133563?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://instagram.com/">
+    <img alt="Instagram" title="Instagram Profile" src="https://img.shields.io/badge/Instagram-133563?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+  <a href="http://discordapp.com/users/">
+    <img alt="Discord" title="Discord Profile" src="https://img.shields.io/badge/Discord-133563?style=for-the-badge&logo=discord&logoColor=white">
+  </a>
+  <a href="http://twitter.com/">
+    <img alt="Twitter" title="Twitter Profile" src="https://img.shields.io/badge/Twitter-133563?style=for-the-badge&logo=twitter&logoColor=white">
+  </a>
+  <a href="https://github.com/">
+    <img alt="Github" title="Github Profile" src="https://img.shields.io/badge/github-133563.svg?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+</p>
