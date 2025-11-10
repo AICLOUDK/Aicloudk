@@ -13,12 +13,11 @@
 <br>
 
 <p align="center">
-  <a href="https://linkedin.com/in/">
-    <img alt="LinkedIn" title="">
-  <a href="https://instagram.com/">
-    <img alt="Instagram" title="">
-  <a href="http://twitter.com/">
-    <img alt="Twitter" title="">
-  <a href="https://github.com/">
-    <img alt="Github" title="Github Profile" src="https://github.com/AICLOUDK">
+  <a href="https://linkedin.com/in/Kamyab"><img alt="Linkedin" title="Kamyab Linkedin" src=""></a>
+  <a href="https://instagram.com/Kamyab"><img alt="Instagram" title="Kamyab Instagram" src=""></a>
+  <a href="http://discordapp.com/users/Kamyab"><img alt="Discord" title="Kamyab Discord Profile" src=""></a>
+  <a href="http://twitter.com/Kamyab"><img alt="Twitter" title="Kamyab Twitter" src=""></a>
+  <a href="https://github.com/Kamyab"><img alt="Github" title="Kamyab Github" src=""></a>
 </p>
+
+<br>
