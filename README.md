@@ -1,8 +1,9 @@
 ![aicloudk's GitHub stats](https://github-readme-stats.vercel.app/api?username=aicloudk&count_private=true&show_icons=true&theme=transparent&hide_border=true&number_format=long) ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aicloudk&theme=transparent&hide_border=true&layout=compact)
 
 <br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie)](https://github.com/aicloudk/github-readme-stats)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AICLOUDK&theme=transparent" />
+</p>
 
 <br>
 
