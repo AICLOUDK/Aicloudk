@@ -2,6 +2,10 @@
 
 <br>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie)](https://github.com/aicloudk/github-readme-stats)
+
+<br>
+
 ![trophy](https://github-profile-trophy.vercel.app/?username=aicloudk&theme=onedark&column=-1)
 
 <br>
