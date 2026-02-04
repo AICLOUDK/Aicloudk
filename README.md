@@ -1,7 +1,4 @@
-![trophy](https://github-profile-trophy.vercel.app/?username=AICLOUDK&theme=onedark&column=-1)
 
-
-<br>
 
 
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)
